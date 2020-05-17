@@ -1,2 +1,2 @@
 # taroj1205
-Python
+Python Guess Number Game.
